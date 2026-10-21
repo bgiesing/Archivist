@@ -1,0 +1,6 @@
+{
+  "name": "Archivist",
+  "description": "Automated and manual Android 15 native app archiving powered by Shizuku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
